@@ -6,7 +6,9 @@
 
 ##Need a gathering, at which we will decide what exactly should be done
 Propose a date :
+
 1. DD/MM/YYYY
+
 2. DD/MM/YYYY
 
 ###We MUST discuss:
