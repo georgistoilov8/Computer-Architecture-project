@@ -12,7 +12,7 @@ Propose a date :
 ###We MUST discuss:
 
 1. The budget
-* what parts should be purchased
+  - what parts should be purchased
 2. How the tasks will be sorted
 
 
