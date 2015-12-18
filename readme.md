@@ -31,6 +31,11 @@
     - код
     - схеми
   
+##Разпределение:
+  - Георги: електрическа схема
+  - Иво: схема печатна платка
+  - Йордан: кратко описание
+  - Мартин: блок-схема
 
 
 >To surrender the city to you is beyond my authority or anyone else's who lives in it, for all of us, after taking the mutual decision, shall die out of free will without sparing our lives.
