@@ -1,0 +1,41 @@
+#### Курсова работа - Писмено
+1.  УВОД - ИМАМЕ
+2.
+
+---------------------------------------------
+
+#### Курсова работа - На Практика
+1.  Плотери:
+      -3х релси(https://github.com/danione/Computer-Architecture-project/blob/master/Sketches/Page0001.jpg) - 8лв(за брой) = 24 лв
+      -мотори(http://www.robotev.com/product_info.php?cPath=1_40_37&products_id=244) 5 лв.
+      -стиковете(иво гот дис)
+      -джойстици()
+      -схеми
+
+2.  Врати:
+      -инфрачервен светодиод(L34SF6C IR diode 880nm @ 15mW:  (https://store.comet.bg/Catalogue/Product/28947/))*10 = 6 лв
+      -инфрачервен транзистор(фототранзистор - RPT34PB3F IR transistor: (https://store.comet.bg/Catalogue/Product/23772/#e30%3D))*10 = 3,5 лв
+      -отвор за излизане на шайбата
+
+3.  Маса:
+      -схема
+      -плекси глас
+      -да се разяснят материалите за направата на масата
+      -техника на производство
+      -доставка
+      -Цена(да кажем Безплатно)
+
+4.  Ардуино:
+      -поръчка(Arduino Mega) ~= 75 лева
+      -https://store.arduino.cc/product/GBX00067
+
+5.  Светодиоди:
+      -поръчка(червен и син)
+      -https://store.comet.bg/Catalogue/Product/45664/ - 10*25ст = 2лв и 50 стотинки
+
+6.  Части за H-Bridge
+      -х24+5 Транзистора(https://www.fairchildsemi.com/datasheets/TI/TIP41C.pdf)
+      -х16+5 Диода(http://www.onsemi.com/pub_link/Collateral/1N4001-D.PDF)
+      -х8+5 Резистора(http://www.farnell.com/datasheets/1716726.pdf)
+      -схема
+      -4 мотора
