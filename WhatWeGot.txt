@@ -7,7 +7,7 @@
 #### Курсова работа - На Практика
 1.  Плотери:
       -3х релси(https://github.com/danione/Computer-Architecture-project/blob/master/Sketches/Page0001.jpg) - 8лв(за брой) = 24 лв
-      -мотори(http://www.robotev.com/product_info.php?cPath=1_40_37&products_id=244) 5 лв.
+      -мотори(http://www.robotev.com/product_info.php?cPath=1_40_37&products_id=244) 20 лв.
       -стиковете(иво гот дис)
       -джойстици()
       -схеми
@@ -31,11 +31,16 @@
 
 5.  Светодиоди:
       -поръчка(червен и син)
-      -https://store.comet.bg/Catalogue/Product/45664/ - 10*25ст = 2лв и 50 стотинки
+      -https://store.comet.bg/Catalogue/Product/45664/ - 10*25ст = 2лв и 50 стотинки(червен)
+      -https://store.comet.bg/Catalogue/Product/40842/ - 10*28*2ст = 5лв и 60 стотинки(син)
 
 6.  Части за H-Bridge
-      -х24+5 Транзистора(https://www.fairchildsemi.com/datasheets/TI/TIP41C.pdf)
-      -х16+5 Диода(http://www.onsemi.com/pub_link/Collateral/1N4001-D.PDF)
-      -х8+5 Резистора(http://www.farnell.com/datasheets/1716726.pdf)
+      -х24+5 Транзистора(https://www.fairchildsemi.com/datasheets/TI/TIP41C.pdf) - https://store.comet.bg/Catalogue/Product/29050/ 30*30ст = 9 лв 
+      -х16+5 Диода(http://www.onsemi.com/pub_link/Collateral/1N4001-D.PDF) - https://store.comet.bg/Catalogue/Product/16815/ 20*2ст = 40 стотинки
+      -х8+5 Резистора(http://www.farnell.com/datasheets/1716726.pdf) - https://store.comet.bg/Catalogue/Product/6361/ (евентуално) 20*14ст = 2лв и 80 ст.
       -схема
       -4 мотора
+
+
+ОБЩА СУМА: 148 лева и 80 стотинки + Джойстици + Стикове
+Приготвяйте касичките
