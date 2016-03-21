@@ -1,0 +1,8 @@
+Ordered so far
+
+Arduino Mega:  http://erelement.com/arduino-mega-2560-r3
+
+4? DC Motor: http://erelement.com/motori-reduktori/elektromotor-6v
+
+1 Jumper Wires: http://erelement.com/proto-boards/wires-kit-70
+
