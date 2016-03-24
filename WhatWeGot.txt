@@ -11,10 +11,10 @@
       -стиковете(иво гот дис)
       -джойстици()
       -схеми
-
+      
 2.  Врати:
-      -инфрачервен светодиод(L34SF6C IR diode 880nm @ 15mW:  (https://store.comet.bg/Catalogue/Product/28947/))*10 = 6 лв
-      -инфрачервен транзистор(фототранзистор - RPT34PB3F IR transistor: (https://store.comet.bg/Catalogue/Product/23772/#e30%3D))*10 = 3,5 лв
+      -инфрачервен светодиод(L-934F3BT IR diode 940nm @ 14mW:  (https://store.comet.bg/Catalogue/Product/20907/#e30%3D))*10 = 1.68 лв
+      -инфрачервен транзистор(фототранзистор - L-93DP3BT IR transistor: (https://store.comet.bg/Catalogue/Product/8768/#e30%3D))*10 = 1.68 лв
       -отвор за излизане на шайбата
 
 3.  Маса:
@@ -31,13 +31,13 @@
 
 5.  Светодиоди:
       -поръчка(червен и син)
-      -https://store.comet.bg/Catalogue/Product/45664/ - 10*25ст = 2лв и 50 стотинки(червен)
-      -https://store.comet.bg/Catalogue/Product/40842/ - 10*28*2ст = 5лв и 60 стотинки(син)
+      -https://store.comet.bg/Catalogue/Product/45664/ - 10бр. = 3,30лв(червен)
+      -https://store.comet.bg/Catalogue/Product/43398/ - 10бр. =3,12лв(син)
 
 6.  Части за H-Bridge
-      -х24+5 Транзистора(https://www.fairchildsemi.com/datasheets/TI/TIP41C.pdf) - https://store.comet.bg/Catalogue/Product/29050/ 30*30ст = 9 лв 
+      -х24+5 Транзистора(https://www.fairchildsemi.com/datasheets/TI/TIP41C.pdf) - https://store.comet.bg/Catalogue/Product/29050/ 30*30ст = 10,08 лв 
       -х16+5 Диода(http://www.onsemi.com/pub_link/Collateral/1N4001-D.PDF) - https://store.comet.bg/Catalogue/Product/16815/ 20*2ст = 40 стотинки
-      -х8+5 Резистора(http://www.farnell.com/datasheets/1716726.pdf) - https://store.comet.bg/Catalogue/Product/6361/ (евентуално) 20*14ст = 2лв и 80 ст.
+      -х8+5 Резистора(http://www.farnell.com/datasheets/1716726.pdf) - https://store.comet.bg/Catalogue/Product/6361/ (евентуално) 20*14ст = 3,36лв.
       -схема
       -4 мотора
 
